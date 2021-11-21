@@ -5,7 +5,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
+      <div class="darkmode-toggle">🌓</div>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
@@ -17,7 +17,7 @@ layout: default
     <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
     <script>
       function addDarkmodeWidget() {
-        new Darkmode().showWidget();
+        new Darkmode({ label: '🌓' }).showWidget();
       }
       window.addEventListener('load', addDarkmodeWidget);
     </script>
