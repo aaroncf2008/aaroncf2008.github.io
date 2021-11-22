@@ -29,7 +29,10 @@ layout: default
         autoMatchOsTheme: true // default: true
       }
       const darkmode = new Darkmode(options);
-      darkmode.showWidget();
+      function addDarkmodeWidget() {
+        darkmode.showWidget();
+      }
+      window.addEventListener('load', addDarkmodeWidget);
     </script>
   {% endfor %}
 </div>
