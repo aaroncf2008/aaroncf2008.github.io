@@ -5,6 +5,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
@@ -13,25 +14,21 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
-    <!-- LOLBEANS IO-->
     <script>
-      const options = {
-        bottom: '64px', // default: '32px'
-        right: 'unset', // default: '32px'
-        left: '32px', // default: 'unset'
-        time: '0.5s', // default: '0.3s'
-        mixColor: '#fff', // default: '#fff'
-        backgroundColor: '#fff',  // default: '#fff'
-        buttonColorDark: '#100f2c',  // default: '#100f2c'
-        buttonColorLight: '#fff', // default: '#fff'
-        saveInCookies: false, // default: true,
-        label: '🌓', // default: ''
-        autoMatchOsTheme: true // default: true
-      }
-      const darkmode = new Darkmode(options);
       function addDarkmodeWidget() {
-        darkmode.showWidget();
+        const options = {
+          label: '🌓',
+          bottom: '64px',
+          left: '32px',
+          time: '0.5s',
+          saveInCookies: true,
+          autoMatchOsTheme: true,
+          mixColor: '#fff', // default: '#fff'
+          backgroundColor: '#fff',  // default: '#fff'
+          buttonColorDark: '#100f2c',  // default: '#100f2c'
+          buttonColorLight: '#fff', // default: '#fff'
+}
+        new Darkmode().showWidget();
       }
       window.addEventListener('load', addDarkmodeWidget);
     </script>
