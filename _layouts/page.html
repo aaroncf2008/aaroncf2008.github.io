@@ -9,4 +9,23 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+  <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+    <script>
+      function addDarkmodeWidget() {
+        const options = {
+          label: '🌓',
+          bottom: '64px',
+          right: '32px',
+          time: '0.5s',
+          saveInCookies: true,
+          autoMatchOsTheme: true,
+          mixColor: '#fff', // default: '#fff'
+          backgroundColor: '#fff',  // default: '#fff'
+          buttonColorDark: '#021430',  // default: '#100f2c'
+          buttonColorLight: '#fff', // default: '#fff'
+        }
+        new Darkmode(options).showWidget();
+      }
+      window.addEventListener('load', addDarkmodeWidget);
+    </script>
 </article>

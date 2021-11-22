@@ -12,4 +12,4 @@ I'm cool.
 
 ### Contact me
 
-[No Email As Of Now](mailto:email@domain.com)
+[No Email As Of Now](mailto:aaronfriedtech@gmail.com)
