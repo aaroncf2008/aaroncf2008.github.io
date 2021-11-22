@@ -8,7 +8,7 @@ I am Aaron. A young student just trying to get better at Cybersecurity & Compute
 
 ### More Information
 
-I'm planning on taking the eJPT in the upcoming weeks! After that, I want to take the eCPPTv2 & the OSCP. I want to improve my skills in cybersecurity and add to my repertoire.
+I'm planning on taking the eJPT as my first cybersecurity certification. I have no other certs. I plan on taking the eCPPTv2 & OSCP following my attempt at the eJPT.
 
 ### Contact me
 
