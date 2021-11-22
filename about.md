@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Aaron. A young student just trying to get better at Cybersecurity & Computer Science.
+I'm Aaron, a young student trying to get better at cybersecurity and computer science. My goals are to become a Pentester / Software Engineer and take my CISSP at 19 (if possible).
 
 ### More Information
 
