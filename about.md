@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Aaron. A young student just trying to get better at Cybersecurity & Computer Science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm cool. 
 
 ### Contact me
 
