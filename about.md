@@ -13,3 +13,4 @@ I'm planning on taking the eJPT as my first cybersecurity certification. I have 
 ### Contact me
 
 [aaronfriedtech@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aaronfriedtech@gmail.com)
+[aaronfriedtech@gmail.com](mailto:aaronfriedtech@gmail.com)
