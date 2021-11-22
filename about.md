@@ -8,8 +8,8 @@ I am Aaron. A young student just trying to get better at Cybersecurity & Compute
 
 ### More Information
 
-I'm cool. 
+I'm planning on taking the eJPT in the upcoming weeks! 
 
 ### Contact me
 
-[No Email As Of Now](mailto:aaronfriedtech@gmail.com)
+[aaronfriedtech@gmail.com](https://mail.google.com/mail/u/0/?to#inbox?compose=CllgCHrhVNkBWjpMXqLzkmlqvhCzvvSkwpqBBRsgfjQqHSdGpmNxTNbjrKrZrhWzwJvZvbsWgdq)
