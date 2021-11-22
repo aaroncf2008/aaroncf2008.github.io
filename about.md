@@ -12,4 +12,4 @@ I'm planning on taking the eJPT in the upcoming weeks! After that, I want to tak
 
 ### Contact me
 
-[aaronfriedtech@gmail.com](https://mail.google.com/mail/u/0/?to#inbox?compose=CllgCHrhVNkBWjpMXqLzkmlqvhCzvvSkwpqBBRsgfjQqHSdGpmNxTNbjrKrZrhWzwJvZvbsWgdq)
+[aaronfriedtech@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aaronfriedtech@gmail.com)
